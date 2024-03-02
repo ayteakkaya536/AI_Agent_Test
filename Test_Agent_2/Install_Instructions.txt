@@ -1,0 +1,7 @@
+## USe Visual Studio Code, and Command Palette (Ctrl+Shift+P); serach >> Python: Create Environment >> virtual Environment
+##OR
+## py -3.9 --version  ## use this command for python run commands
+## at terminal : py -3.9 -m venv .venv 
+## at terminal : .\.venv\Scripts\activate   ## check teh path  according to above venv path
+## at terminal : pip install -r requirements.txt 
+
